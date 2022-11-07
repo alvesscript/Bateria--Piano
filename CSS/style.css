@@ -1,0 +1,63 @@
+h1 {
+display: flex;
+justify-content: center;
+font-family: sans-serif;
+font-size: 30px;
+}
+
+.first {
+    padding-top: 50px;
+    justify-content: center;
+    display: flex;
+    gap: 150px;
+    font-family: sans-serif;
+    font-size: 50px;
+  
+
+    
+}
+
+.second {
+    padding-top: 50px;
+    justify-content: center;
+    display: flex;
+    gap: 150px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.third {
+    padding-top: 50px;
+    justify-content: center;
+    display: flex;
+    gap: 150px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.key {
+    
+    width: 80px;
+    height: 80px;
+    border: 5px solid;
+    padding: 20px;
+}
+
+.compor-letra {
+    margin-top: 40px;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+#input {
+  
+    padding: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    justify-content: center;
+    display: flex;
+}
